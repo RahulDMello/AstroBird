@@ -1,0 +1,18 @@
+Assets needed : 
+background.png				//for background
+backgroundmusic.mp3 			//background music
+base.png 				//base of pillars
+bg.png 					//background image -2
+birdanimation.png 			//an image cotaining 3 images in a 1 x 3 fashion
+coin.png 				//image of coin/collectible
+coinmusic.mp3 				//sound played when collectible collected
+gameove1r.png 				//game over screen 1
+gameover.png 				//game over screen 2
+greenbottomtube.png 			//bottom tube 1
+greentoptube.png 			//top tube 1
+ground.png 				//base/ground shown and the very bottom of the game
+menuscreenmusic.mp3 			//menu screen music
+playbtn.png 				//play button
+redbottomtube.png 			//bottom tube 2
+redtoptube.png 				//top tube 2
+reversegravity.ogg 			//sound played when the gravity is reversed
